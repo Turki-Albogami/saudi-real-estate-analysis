@@ -30,12 +30,14 @@ This project analyzes real estate data from Riyadh, Jeddah, Dammam, and Khobar t
 
 ## 📈 Visualizations
 
-The project includes 8 professional visualizations:
-- Price comparison by city
-- Top 10 most expensive districts
-- Correlation heatmap
-- Feature impact analysis
-- And more...
+### Average Price by City
+![City Prices](1_city_prices.png)
+
+### Correlation Matrix
+![Heatmap](2_heatmap.png)
+
+### Feature Impact on Price
+![Feature Impact](3_feature_impact.png)
 
 ## 📂 Project Structure
 
